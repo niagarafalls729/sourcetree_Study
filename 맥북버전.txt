@@ -1,7 +1,14 @@
+
+tprttrm,회사계정.
+맥북버전 커밋
 회사계정.
 맥북버전 커밋asgsag
 Xzbbzx
 sfsfs//zz
+<<<<<<< HEAD
 맥북버전 커밋sdgsdgsd
 
 ddd
+=======
+
+>>>>>>> main
